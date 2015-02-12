@@ -1,0 +1,7 @@
+
+#- Irrelevant Binary Files
+*.swp
+
+
+#- Testing Directories
+test/*
